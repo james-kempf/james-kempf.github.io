@@ -2904,7 +2904,7 @@ CM.HasReplaceNativeGrimoireLaunch = false;
 CM.HasReplaceNativeGrimoireDraw = false;
 
 CM.ConfigDefault = {
-	BotBar: 1, 
+	BotBar: 0, 
 	TimerBar: 1, 
 	TimerBarPos: 0, 
 	BuildColor: 1, 
